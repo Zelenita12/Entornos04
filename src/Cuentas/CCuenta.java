@@ -10,7 +10,7 @@ package Cuentas;
 public class CCuenta {
 
     /**
-     * @return the nombre
+     * @return the nombre test
      */
     public String getNombre() {
         return nombre;
